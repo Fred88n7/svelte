@@ -1,0 +1,16 @@
+:root {
+  --primary-color: blue;
+  --primary-font-color: white;
+  --secondary-color: hotpink;
+  --default-color: grey;
+  --accent-color: turquoise;
+  --ghost-color: transparent;
+  --ghost-font-color: black;
+  --link-color: blue;
+  --background-color: black;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 50px;
+}
