@@ -1,12 +1,12 @@
 :root {
-  --primary-color: blue;
+  --primary-color: #5014ee;
   --primary-font-color: white;
-  --secondary-color: hotpink;
-  --default-color: grey;
-  --accent-color: turquoise;
+  --secondary-color: #dc30b4;
+  --default-color: #3e4450;
+  --accent-color: #67cabe;
   --ghost-color: transparent;
   --ghost-font-color: black;
-  --link-color: blue;
+  --link-color: #5014ee;
   --background-color: black;
 }
 
